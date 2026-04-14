@@ -1,24 +1,25 @@
-# 👋 Hi, I'm Yash Kiran Pote
-
-💻 CSE Student | 🚀 MERN Stack Developer  
-🔥 Building Real Projects | Open to Opportunities  
+<h1 align="center">Hi 👋, I'm Yash Kiran Pote</h1>
+<h3 align="center">💻 CSE Student | 🚀 MERN Stack Developer | India 🇮🇳</h3>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Computer Science Student  
-- 🌱 Currently learning: MERN Stack  
+- 🌱 Currently learning MERN Stack  
 - 💡 Passionate about Web Development  
-- 🎯 Goal: Become a Full Stack Developer  
+- 🎯 Goal: Full Stack Developer  
 
 ---
 
-## 🛠️ Skills
-- 💻 HTML, CSS, JavaScript  
-- ⚛️ React (Learning)  
-- 🟢 Node.js, Express (Learning)  
-- 🗄️ MongoDB  
-- 🔧 Git & GitHub  
+## 🛠️ Tech Stack
+<p align="left">
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/>
+</p>
 
 ---
 
@@ -35,7 +36,15 @@
 ---
 
 ## 📊 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoteYash&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PoteYash&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PoteYash&theme=tokyonight"/>
+</p>
+
+---
+
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=PoteYash&color=blue)
 
 ---
 
