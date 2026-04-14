@@ -35,8 +35,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poteyash&show_icons=true&theme=tokyonight)
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoteYash&show_icons=true&theme=tokyonight)
 
 ---
 
-⭐️ From [Poteyash](https://github.com/Poteyash)
+⭐️ From [PoteYash](https://github.com/PoteYash)
