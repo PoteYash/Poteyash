@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Hi+I'm+Yash+Kiran+Pote;MERN+Stack+Developer;Full+Stack+Developer;Building+Real+Projects" />
-</p>
 <h1 align="center">Hi 👋, I'm Yash Kiran Pote</h1>
 <h3 align="center">💻 CSE Student | 🚀 MERN Stack Developer | India 🇮🇳</h3>
 
